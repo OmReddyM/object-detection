@@ -1,0 +1,18 @@
+body{
+    background-image: url("rainbow-background.jpeg");
+    background-size: cover;
+}
+.back{
+    background-color: coral;
+    margin: 10px;
+}
+.link{
+    background-color: chartreuse;
+    border: 2px solid lightblue;
+}
+.heading{
+    background-color: aqua;
+    width: 100%;
+    padding: 10px;
+    color: crimson;
+}
